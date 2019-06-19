@@ -16,4 +16,6 @@
 
 - conda install pytorch-cpu torchvision-cpu -c pytorch
 
+### To start the game type python pong-play.py on command line
 
+### In case if you want to train the game type python pong.py on command line
