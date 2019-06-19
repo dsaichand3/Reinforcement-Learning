@@ -6,14 +6,14 @@ Python packages required to initiate the game are:
 
 *Install using pip*
 
--pip install gym
+- pip install gym
 
--pip install gym[atari]
+- pip install gym[atari]
 
 # PyTorch
 
 *Install using conda*
 
--conda install pytorch-cpu torchvision-cpu -c pytorch
+- conda install pytorch-cpu torchvision-cpu -c pytorch
 
 
