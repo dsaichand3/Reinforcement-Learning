@@ -1,6 +1,6 @@
-# Train an agent to play the famous atari game "Pong"
+## Train an agent to play the famous atari game "Pong"
 
-Python packages required to initiate the game are:
+*Python packages required to initiate the game are:*
 
 # OpenAI Gym
 
