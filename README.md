@@ -7,6 +7,7 @@ Python packages required to initiate the game are:
 Install using pip
 
 pip install gym
+
 pip install gym[atari]
 
 # PyTorch
