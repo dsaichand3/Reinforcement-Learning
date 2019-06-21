@@ -1,6 +1,6 @@
 # Train an agent to play the famous atari game
 
-<img src="https://github.com/dsaichand3/Reinforcement-Learning/blob/master/pong-video/screen.mov" width="300">
+<img src="https://github.com/dsaichand3/Reinforcement-Learning/blob/master/screen.gif" width="300">
 
 *Python packages required to initiate the game are:*
 
